@@ -1,2 +1,2 @@
 # PHillBot
-An shopping assistant or our e-commerce site
+A shopping assistant for our e-commerce site
